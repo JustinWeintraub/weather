@@ -1,0 +1,7 @@
+vir_env
+__pycache__/
+.DS_Store
+model_file.p
+model_file2.p
+.env
+node_modules

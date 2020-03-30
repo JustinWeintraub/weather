@@ -1,0 +1,17 @@
+select {
+  width: 30%;
+  font-size: 125%;
+  color: black;
+  border: 0;
+  border-radius: 0;
+  height: auto;
+  text-align: center;
+  text-align-last: center;
+  margin-bottom: 1vh;
+}
+
+.predictionContainer {
+  margin-left: 1vw;
+  font-size: 4vh;
+  width: 75%;
+}

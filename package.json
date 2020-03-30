@@ -1,0 +1,7 @@
+{
+  "name": "weintraub-weather",
+  "version": "0.1.0",
+  "scripts": {
+    "postinstall": "npm install --prefix backend && npm install --prefix frontend"
+  }
+}
