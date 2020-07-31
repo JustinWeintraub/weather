@@ -2,6 +2,8 @@
 
 ![Weather e94a9375](https://user-images.githubusercontent.com/44651405/89049815-cf161800-d31f-11ea-85d2-b2dd33e9e956.png)
 
+Link to project in action: https://weintraub-weather.herokuapp.com/
+
 A cumulative machine learning and web design project based around weather using a Flask/Python backend and a React/Javascript frontend. Pickle was used to transfer data between the various parts.
 
 Data scraping elements:
